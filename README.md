@@ -1,3 +1,5 @@
+![Banner](https://github.com/capucinemahe/capucinemahe/blob/main/avatarGitHub.png?raw=true)
+
 ### Hi there 👋
 
 <!--
