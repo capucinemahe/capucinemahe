@@ -1,6 +1,6 @@
 ![Banner](https://github.com/capucinemahe/capucinemahe/blob/main/avatarGitHub.png?raw=true)
 
-### Follow me on Twitter! [@MhCapucine](https://twitter.com/MhCapucine)
+### Follow me on LinkedIn! [@tupeuxcliquerlà](https://www.linkedin.com/in/capucinemahe/)
 
 <!--
 **capucinemahe/capucinemahe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
