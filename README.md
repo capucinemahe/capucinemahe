@@ -10,7 +10,7 @@ TypeScript - WordPress ...
 
 Je code actuellement un petit site e-commerce en React.js, visible ici en démo : https://capucinemahe.github.io/ohmycream/  (pas sûre d'avoir le droit d'utiliser un logo de marque et des produits mais c'est juste pour m'entrainer 🤫 ).
 
-Je suis aussi en train de (galérer mais c'est pour bientot) mettre en ligne de mon dernier projet de formation, un réseau social d'entreprise dont j'ai fait le backend sécurisé avec Node, ma base de données est en SQL, et mon frontend fait avec Next.js
+Vous pouvez aller consulter le code de mon dernier projet de formation, un réseau social d'entreprise [@ici](https://github.com/capucinemahe/groupomania_pink) dont j'ai fait le backend sécurisé avec Node, ma base de données est en SQL, et mon frontend fait avec Next.js, voici une petite vidéo de démo [@ici](https://youtu.be/svVRu20P7eQ) :)
 
 En parrallèle, je recherche un poste en CDI pour une ESN, start-up ou agence web 🚀
 
