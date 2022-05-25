@@ -10,7 +10,7 @@ TypeScript - WordPress ...
 
 Je code actuellement un petit site e-commerce en React.js, visible ici en démo : https://capucinemahe.github.io/ohmycream/  (pas sûre d'avoir le droit d'utiliser un logo de marque et des produits mais c'est juste pour m'entrainer 🤫 ).
 
-Vous pouvez aller consulter le code de mon dernier projet de formation, un réseau social d'entreprise [@ici](https://github.com/capucinemahe/groupomania_pink) dont j'ai fait le backend sécurisé avec Node, ma base de données est en SQL, et mon frontend fait avec Next.js, voici une petite vidéo de démo [@ici](https://youtu.be/svVRu20P7eQ) :)
+Vous pouvez aller consulter le code de mon dernier projet de formation, un réseau social d'entreprise [ici](https://github.com/capucinemahe/groupomania_pink) dont j'ai fait le backend sécurisé avec Node, ma base de données est en SQL, et mon frontend fait avec Next.js, voici une petite vidéo de démo [ici](https://youtu.be/svVRu20P7eQ) :)
 
 En parrallèle, je recherche un poste en CDI pour une ESN, start-up ou agence web 🚀
 
@@ -18,4 +18,4 @@ Je viens de finir une formation d'algorithmie en JavaScript, c'était pas si sim
 
 Et sinon : rap&rnb x plants x ocean x design x couscous lover 💕  [ma_playlist_Spotify](https://open.spotify.com/playlist/65Put9Tz3orQZdVpCutmXO?si=ac15cc8578a9423d)
 
-### Contactez moi via LinkedIn : [@tupeuxcliquerlà](https://www.linkedin.com/in/capucinemahe/)
+### Contactez moi via LinkedIn : [tupeuxcliquerlà](https://www.linkedin.com/in/capucinemahe/)
