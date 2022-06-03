@@ -14,8 +14,6 @@ Vous pouvez aller consulter le code de mon dernier projet de formation, un rése
 
 En parrallèle, je recherche un poste en CDI pour une ESN, start-up ou agence web 🚀
 
-Je viens de finir une formation d'algorithmie en JavaScript, c'était pas si simple mais je suis maintenant plus à l'aise pour résoudre des problèmes.
-
 Et sinon : rap&rnb x plants x ocean x design x couscous lover 💕  [ma_playlist_Spotify](https://open.spotify.com/playlist/65Put9Tz3orQZdVpCutmXO?si=ac15cc8578a9423d)
 
 ### Contactez moi via LinkedIn : [tupeuxcliquerlà](https://www.linkedin.com/in/capucinemahe/)
