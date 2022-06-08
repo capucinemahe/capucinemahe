@@ -14,6 +14,6 @@ Vous pouvez aller consulter le code de mon dernier projet de formation, un rése
 
 En parrallèle, je recherche un poste en CDI pour une ESN, start-up ou agence web 🚀
 
-Et sinon : rap&rnb x plants x ocean x design x couscous lover 💕  [ma_playlist_Spotify](https://open.spotify.com/playlist/65Put9Tz3orQZdVpCutmXO?si=ac15cc8578a9423d)
+Et sinon : plantes x ocean x design x rap&rnb x couscous lover 💕  [ma_playlist_Spotify](https://open.spotify.com/playlist/65Put9Tz3orQZdVpCutmXO?si=ac15cc8578a9423d)
 
-### Contactez moi via LinkedIn : [tupeuxcliquerlà](https://www.linkedin.com/in/capucinemahe/)
+### Contactez moi via [LinkedIn](https://www.linkedin.com/in/capucinemahe/)
