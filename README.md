@@ -1,6 +1,6 @@
 ![Banner](https://github.com/capucinemahe/capucinemahe/blob/main/avatarGitHub.png?raw=true)
 
-Je suis développeuse web full-stack.
+Je suis développeuse web.
 
 Voici une petite liste en évolution de mes hard skills : 
 JavaScript - React - Next.js - Node.js - Git - HTML, CSS & Sass - MongoDB - MySQL - SEO (Next.js mon meilleur ami pour ça) - accessibilité
