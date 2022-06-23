@@ -14,6 +14,6 @@ Vous pouvez aller consulter le code de mon dernier projet de formation, un rése
 
 En parrallèle, je recherche un poste en CDI pour une ESN, start-up ou agence web 🚀
 
-Je suis bretonne, j'adore les plantes, l'océan, la montagne, les meubles design 70's, les produits de beauté, le running et je suis une vraie couscous lover 💕
+J'adore les plantes, l'océan, la montagne, les meubles design 70's, les produits de beauté, le running + couscous lover 💕
 
 ### Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/capucinemahe/)
